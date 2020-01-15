@@ -25,7 +25,7 @@ SECRET_KEY = 'a3kei3zwkq+38-i)q4fw(z2oiv6f(3w&l0b4@_ke!aj53*z^nt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['todo-demo-django-react.herokuapp.com', '127.0.0.1:8000']
+ALLOWED_HOSTS = ['127.0.0.1:8000']
 
 
 # Application definition
@@ -127,7 +127,8 @@ STATIC_URL = '/static/'
 
 # we whitelist localhost:3000 because that's where frontend will be served
 CORS_ORIGIN_WHITELIST = [
-'http://localhost:3000',
+    'https://todo-demo-django-react.herokuapp.com/',
+    'http://localhost:3000',
 ]
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'public')
