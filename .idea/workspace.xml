@@ -77,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="161">
+              <caret line="129" column="49" lean-forward="true" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -142,6 +142,7 @@
       <find>reactdja</find>
       <find>3000</find>
       <find>heroku</find>
+      <find>herokuapp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -259,18 +260,18 @@
       <workItem from="1578976442912" duration="2335000" />
       <workItem from="1578978931241" duration="803000" />
       <workItem from="1579018107847" duration="280000" />
-      <workItem from="1579059118053" duration="4189000" />
+      <workItem from="1579059118053" duration="4521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8328000" />
+    <option name="totallyTimeSpent" value="8660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="36" width="1554" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21626984" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21626984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -285,7 +286,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5378859" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5378859" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -484,8 +485,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state relative-caret-position="161">
+          <caret line="129" column="49" lean-forward="true" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
         </state>
       </provider>
     </entry>

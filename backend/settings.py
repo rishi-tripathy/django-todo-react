@@ -127,7 +127,7 @@ STATIC_URL = '/static/'
 
 # we whitelist localhost:3000 because that's where frontend will be served
 CORS_ORIGIN_WHITELIST = [
-    'https://todo-demo-django-react.herokuapp.com/',
+    'https://todo-demo-django-react.herokuapp.com',
     'http://localhost:3000',
 ]
 
