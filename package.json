@@ -3,7 +3,7 @@
 
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://todo-demo-django-react.herokuapp.com/api/", //CHANGE TO localhost:8000 for local dev
+  "proxy": "https://todo-demo-django-react.herokuapp.com/api/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
