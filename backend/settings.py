@@ -16,6 +16,8 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
+
+
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
@@ -25,7 +27,7 @@ SECRET_KEY = 'a3kei3zwkq+38-i)q4fw(z2oiv6f(3w&l0b4@_ke!aj53*z^nt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1:8000', 'todo-demo-django-react.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1:8000', 'todo-demo-django-react.herokuapp.com', 'localhost']
 
 
 # Application definition
@@ -60,7 +62,9 @@ ROOT_URLCONF = 'backend.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            os.path.join(BASE_DIR, 'build')
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
