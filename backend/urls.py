@@ -16,7 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include, re_path  # add this
 from rest_framework import routers  # add this
-from todo import views  # add this
+from backend.todo import views  # add this
 from django.views.generic import TemplateView
 
 router = routers.DefaultRouter()  # add this

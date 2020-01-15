@@ -27,7 +27,7 @@ SECRET_KEY = 'a3kei3zwkq+38-i)q4fw(z2oiv6f(3w&l0b4@_ke!aj53*z^nt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1:8000', 'todo-demo-django-react.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', '127.0.0.1:8000', 'todo-demo-django-react.herokuapp.com', 'localhost']
 
 
 # Application definition
@@ -40,13 +40,13 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'whitenoise.runserver_nostatic',  # < As per whitenoise documentation
     'django.contrib.staticfiles',
-    'corsheaders',
+    # 'corsheaders',
     'rest_framework',
-    'todo'
+    'backend.todo'
 ]
 
 MIDDLEWARE = [
-    'corsheaders.middleware.CorsMiddleware',
+    # 'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'whitenoise.middleware.WhiteNoiseMiddleware',  # Whitenoise Middleware
     'django.contrib.sessions.middleware.SessionMiddleware',
