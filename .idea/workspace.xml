@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6532c4f-d82c-4dce-adab-f18476e5089c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="e6532c4f-d82c-4dce-adab-f18476e5089c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +83,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="2491">
               <caret line="132" selection-start-line="132" selection-end-line="136" />
             </state>
           </provider>
@@ -180,7 +176,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="75" />
     <option name="y" value="36" />
-    <option name="width" value="1554" />
+    <option name="width" value="1845" />
     <option name="height" value="1177" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -196,6 +192,17 @@
             <path>
               <item name="django-todo-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="django-todo-react" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-todo-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-todo-react" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-todo-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-todo-react" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="django-todo-react" type="b2602c69:ProjectViewProjectNode" />
@@ -258,18 +265,17 @@
       <workItem from="1578976442912" duration="2335000" />
       <workItem from="1578978931241" duration="803000" />
       <workItem from="1579018107847" duration="280000" />
-      <workItem from="1579059118053" duration="6033000" />
+      <workItem from="1579059118053" duration="6464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10172000" />
+    <option name="totallyTimeSpent" value="10603000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="36" width="1554" height="1177" extended-state="0" />
-    <editor active="true" />
+    <frame x="75" y="36" width="1845" height="1177" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21626984" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18136439" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -489,7 +495,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="2491">
           <caret line="132" selection-start-line="132" selection-end-line="136" />
         </state>
       </provider>
